@@ -2,9 +2,9 @@ name: section_c
 account: pranjal
 server: shinyapps.io
 appId: 128265
-bundleId: 573537
+bundleId: 581967
 url: https://pranjal.shinyapps.io/section_c/
-when: 1475299212.42016
+when: 1476086749.93723
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: section_c.csv|section_c.ods|section_c.R
+ignoredFiles: section_c.csv|section_c.ods

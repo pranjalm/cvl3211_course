@@ -1,11 +1,11 @@
 s_no,reg_no,name,mid_sem,Q2,group,day_1,day_2,day_3,day_4,day_5,day_6,day_7,day_8,day_9,day_10,day_11,day_12,day_13,day_14,day_15,day_16,day_17,day_18,day_19,day_20,day_21,day_22,day_23,day_24,day_25,day_26,day_27,day_28,Q1
 1,1441011003,AKSHAYA KUMAR LOHAR,4.5,7,1,p,p,p,p,p,p,0,p,p,1,a,1,a,p,a,a,p,p,p,0,p,p,p,a,p,p,a,x,1
-2,1441011009,SATYAJIT KHATUA,12,4,1,p,p,p,p,a,p,0,p,p,1,p,1,p,p,a,a,p,p,p,0,a,p,p,p,p,p,p,x,x
+2,1441011009,SATYAJIT KHATUA,12.5,4,1,p,p,p,p,a,p,0,p,p,1,p,1,p,p,a,a,p,p,p,0,a,p,p,p,p,p,p,x,x
 3,1441011010,BISWAJIT SINGHSAMANTA,a,6,2,p,p,a,a,p,p,0,a,a,0,a,0,p,a,p,a,p,a,a,0,a,p,p,p,p,p,p,x,3
 4,1441011015,CHINMAYA NAIK,2.5,3,2,p,p,p,p,p,p,0,p,p,0,p,0,p,a,p,a,p,a,p,0,p,p,p,p,p,p,p,x,0
 5,1441011028,TAPASWINEE BARIK,21.5,8,1,p,p,p,p,p,p,0,p,p,1,p,0,p,p,p,p,p,p,p,0,p,p,p,p,p,p,p,x,0
 6,1441011029,MONIDEEPA BOSE,17,x,1,p,p,p,p,a,p,0,p,a,1,a,0,a,p,p,a,p,p,p,1,p,p,p,p,p,p,p,x,5
-7,1441011045,SIDHANT PATTNAIK,24,11,1,p,p,p,p,p,p,1,p,p,1,p,1,p,p,p,p,p,p,p,1,p,p,p,p,p,p,p,x,7
+7,1441011045,SIDHANT PATTNAIK,25,11,1,p,p,p,p,p,p,1,p,p,1,p,1,p,p,p,p,p,p,p,1,p,p,p,p,p,p,p,x,7
 8,1441011051,SAMBIT ROUT,26,10,2,p,p,p,p,p,p,0,p,p,0,a,1,p,p,p,p,a,a,p,1,p,a,p,p,p,p,p,x,6
 9,1441011064,SOURAV BARAL,8,3,2,p,p,p,p,p,p,0,p,p,0,p,0,a,p,p,p,p,a,p,0,p,p,p,p,a,p,a,x,1
 10,1441011069,SOMMYAK GURU,10,7,2,p,p,p,p,p,a,0,p,p,0,a,0,a,a,a,a,p,a,p,0,a,p,a,a,p,p,p,x,3
