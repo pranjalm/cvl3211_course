@@ -1,50 +1,50 @@
-s_no,reg_no,name,Day_30,Day_29,mid_sem,Q2,group,day_1,day_2,day_3,day_4,day_5,day_6,day_7,day_8,day_9,day_10,day_11,day_12,day_13,day_14,day_15,day_16,day_17,day_18,day_19,day_20,day_21,day_22,day_23,day_24,day_25,day_26,day_27,day_28,Q1
-1,1441011003,AKSHAYA KUMAR LOHAR,p,a,4.5,7,1,p,p,p,p,p,p,0,p,p,1,a,1,a,p,a,a,p,p,p,0,p,p,p,a,p,p,a,p,1
-2,1441011009,SATYAJIT KHATUA,p,p,12.5,4,1,p,p,p,p,a,p,0,p,p,1,p,1,p,p,a,a,p,p,p,0,a,p,p,p,p,p,p,p,x
-3,1441011010,BISWAJIT SINGHSAMANTA,p,p,a,6,2,p,p,a,a,p,p,0,a,a,0,a,0,p,a,p,a,p,a,a,0,a,p,p,p,p,p,p,a,3
-4,1441011015,CHINMAYA NAIK,p,p,2.5,3,2,p,p,p,p,p,p,0,p,p,0,p,0,p,a,p,a,p,a,p,0,p,p,p,p,p,p,p,a,0
-5,1441011028,TAPASWINEE BARIK,p,p,21.5,8,1,p,p,p,p,p,p,0,p,p,1,p,0,p,p,p,p,p,p,p,0,p,p,p,p,p,p,p,p,0
-6,1441011029,MONIDEEPA BOSE,p,p,17,x,1,p,p,p,p,a,p,0,p,a,1,a,0,a,p,p,a,p,p,p,1,p,p,p,p,p,p,p,a,5
-7,1441011045,SIDHANT PATTNAIK,p,p,25,11,1,p,p,p,p,p,p,1,p,p,1,p,1,p,p,p,p,p,p,p,1,p,p,p,p,p,p,p,p,7
-8,1441011051,SAMBIT ROUT,p,p,26,10,2,p,p,p,p,p,p,0,p,p,0,a,1,p,p,p,p,a,a,p,1,p,a,p,p,p,p,p,a,6
-9,1441011064,SOURAV BARAL,p,p,8,3,2,p,p,p,p,p,p,0,p,p,0,p,0,a,p,p,p,p,a,p,0,p,p,p,p,a,p,a,a,1
-10,1441011069,SOMMYAK GURU,p,p,10,7,2,p,p,p,p,p,a,0,p,p,0,a,0,a,a,a,a,p,a,p,0,a,p,a,a,p,p,p,p,3
-11,1441011078,ABINASH PANDA,p,p,13,5,2,p,p,p,p,p,p,0,p,p,0,p,0,a,p,p,a,p,p,p,0,p,p,p,p,p,p,p,p,1
-12,1441011105,HARAPRASAD ROUT,p,p,11,9,2,p,p,p,p,p,p,0,p,p,0,p,1,p,p,a,a,p,a,p,0,p,p,p,p,a,p,p,a,x
-13,1441011128,GITISH RANJAN SAMANTARAY,p,p,2,3,2,p,p,a,a,p,p,0,p,p,0,a,0,p,p,p,a,p,a,p,0,p,p,p,p,p,p,p,a,0
-14,1441011140,ASWIMIN KUMAR PANDA,p,p,0.5,5,2,a,p,p,p,a,p,0,p,p,0,a,0,a,p,p,a,a,a,a,0,p,p,p,p,p,p,a,p,1
-15,1441011144,BISWA BHUSAN RATH,p,p,17,9,2,p,p,p,p,p,p,0,p,p,0,p,1,p,p,p,p,p,a,p,0,p,p,p,p,p,p,p,p,3
-16,1441011153,SHASANKA SEKHAR SWAIN,p,p,15,6,1,p,p,p,p,p,p,1,p,p,1,p,1,p,p,p,a,p,p,p,1,p,p,p,p,p,p,p,p,0
-17,1441011165,TANMAY KUMAR DEHURY,p,a,4,8,2,a,a,a,a,a,a,0,a,p,0,p,0,a,p,p,a,p,p,p,0,p,p,p,p,a,p,p,a,x
-18,1441011185,DIBYA RANJAN JENA,p,p,2,6,1,a,a,a,a,p,a,0,a,p,0,p,0,a,p,a,a,a,a,p,0,p,p,a,a,p,p,p,a,1
-19,1441011198,PRABHU NARAYAN PATTANAIK,p,p,0,x,1,p,a,p,p,p,a,0,a,p,0,p,0,a,p,a,a,a,a,p,0,p,p,a,a,p,p,p,a,1
-20,1441011206,DENIS MINZ,p,a,7.5,7,1,p,a,p,a,p,p,0,a,p,1,p,0,p,a,p,a,p,a,p,0,p,p,p,p,p,p,p,a,0
-21,1441011214,RUDRA PRASAD MALLIA,p,p,1,x,2,p,p,p,p,p,p,1,p,p,0,p,0,p,p,a,a,p,a,p,0,p,p,p,p,p,p,p,p,0
-22,1471076001,ABHIPSA NANDA,p,p,15,8,1,p,p,p,p,p,p,0,a,p,1,p,0,a,p,p,a,p,p,p,0,p,p,p,p,p,p,p,p,1
-23,1471076002,RIYA KARMAKAR,p,p,14.5,8,1,p,p,p,p,p,p,1,p,p,1,p,0,a,p,p,a,p,p,p,1,p,p,p,p,p,p,p,a,1
-24,1471076006,SHREE NANDAN SAHOO,p,p,22,8,1,p,p,p,p,a,p,1,p,p,1,p,1,p,p,p,p,p,p,p,1,p,p,p,p,p,p,p,p,5
-25,1471076007,MOHIT PATEL,p,p,17,6,1,p,p,p,p,p,p,1,p,p,0,p,0,a,p,p,p,p,p,p,0,a,a,p,p,p,p,p,p,1
-26,1471076008,AMAR KUMAR SINGH,p,p,1.5,7,1,p,p,p,p,p,p,0,a,p,1,a,0,a,p,p,a,p,a,p,0,a,a,p,p,p,p,p,p,1
-27,1471076012,MANISH NATH,p,p,7.5,7,1,p,p,p,p,p,p,0,p,p,1,p,1,p,p,p,p,p,p,p,0,p,p,p,p,p,p,p,p,3
-28,1471076019,NABDEEP PATNAIK,p,p,8,7,1,p,p,p,p,p,p,0,p,p,0,p,1,p,p,p,a,p,p,p,1,p,p,p,p,p,p,p,a,1
-29,1471076022,SONALIRANI PADHIARI,p,p,14,8,1,p,p,p,p,p,p,1,p,p,1,p,0,a,p,p,a,p,p,p,0,p,p,p,p,p,p,p,p,0
-30,1471086004,AMIT KUMAR JENA,p,p,13,9,1,p,p,p,p,p,p,0,p,p,1,p,1,p,p,p,p,p,p,p,0,p,p,p,p,p,p,p,p,3
-31,1471086005,SOUMYA RANJAN MOHANTY,p,p,4,7,1,p,p,p,a,p,p,0,p,p,0,p,0,a,p,p,a,p,p,a,0,p,p,p,p,p,p,p,p,3
-32,1471086007,SIBUN KUMAR,p,p,4,7,1,p,p,a,p,a,p,0,a,a,0,p,0,a,p,p,a,p,a,p,0,p,p,p,p,p,p,p,p,3
-33,1441011067,PRATYUSH PRASHANT,a,a,4.5,x,1,x,x,x,x,x,x,x,x,x,0,a,0,a,a,p,p,a,p,a,0,p,p,p,a,p,p,p,a,x
-34,1441011094,SATYAJIT PRADHAN,p,p,2,6,2,x,x,x,x,x,x,x,x,x,0,p,1,a,a,a,a,a,p,a,0,a,a,a,a,p,p,a,a,1
-35,1441011102,PUNENDU GAJENDRA MOHAPATRA,p,p,2.5,x,2,x,x,x,x,x,x,x,x,x,0,p,0,p,a,p,p,p,p,p,1,p,a,p,p,p,p,p,a,5
-36,1441011172,SATTISH KUMAR TRIPATHY,p,a,6,7,1,x,x,x,x,x,x,x,x,x,0,p,0,a,a,a,a,p,p,p,1,p,a,p,p,p,p,p,a,0
-37,1441011205,PRAVEEN HEMBROM,p,p,0,1,1,x,x,x,x,x,x,x,x,x,0,p,0,p,a,a,a,a,a,a,0,p,p,p,p,p,p,p,p,0
-38,1441011211,MD SABIR ALAM,p,p,2.5,6,2,x,x,x,x,x,x,x,x,x,1,p,1,p,p,p,p,p,a,a,1,p,p,p,p,p,p,p,p,0
-39,1441011215,ANKIT KUMAR MALLICK,p,a,2,5,2,x,x,x,x,x,x,x,x,x,1,p,1,p,a,a,a,a,p,p,0,a,a,a,p,p,p,p,a,x
-40,1441011216,SASWAT,p,p,1.5,7,2,x,x,x,x,x,x,x,x,x,0,p,1,p,a,a,a,a,p,a,1,p,a,p,p,p,p,p,a,0
-41,1441011204,SHANTANU KUMAR,p,a,0,3,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,a,a,p,p,a,a,x
-42,1441011196,ASHWINI ANAND,p,a,0.5,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,p,p,p,p,p,a,a,x
-43,1341011135,SABYASACHI DASH,p,a,a,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,p,a,a,p,a,p,x
-44,1441011041,JANMENJAYA SAHOO,p,p,1.5,6,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,p,p,p,p,p,p,x
-45,1471076011,SAHABAZ KHAN,a,p,3.5,6,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,p,p,a,p,a,p,x
-46,1471076020,SUBHAMSHREE SOUMYADARSHI MALLIK,a,p,1,5,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,p,p,a,p,a,p,x
-47,1441011218,SHANTANU JANA,a,a,a,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,p,p,a,a,p,a,a,x
-48,1441011212,MD ARMAN KHAN,a,a,0,0,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,a,p,p,p,p,p,p,a,x
-49,1441011207,BUDDHADEV TUDU,p,p,0,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,a,a,p,a,p,p,p,a,x
+s_no,reg_no,name,Day_33,Day_32,Day_32,Day_31,Day_30,Day_29,mid_sem,Q2,group,day_1,day_2,day_3,day_4,day_5,day_6,day_7,day_8,day_9,day_10,day_11,day_12,day_13,day_14,day_15,day_16,day_17,day_18,day_19,day_20,day_21,day_22,day_23,day_24,day_25,day_26,day_27,day_28,Q1
+43,1341011135,SABYASACHI DASH,a,a,a,p,p,a,a,x,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,p,a,a,p,a,p,x
+1,1441011003,AKSHAYA KUMAR LOHAR,p,a,p,p,p,a,4.5,7,1,p,p,p,p,p,p,0,p,p,1,a,1,a,p,a,a,p,p,p,0,p,p,p,a,p,p,a,p,1
+2,1441011009,SATYAJIT KHATUA,p,p,p,p,p,p,12.5,4,1,p,p,p,p,a,p,0,p,p,1,p,1,p,p,a,a,p,p,p,0,a,p,p,p,p,p,p,p,x
+3,1441011010,BISWAJIT SINGHSAMANTA,a,p,p,p,p,p,a,6,2,p,p,a,a,p,p,0,a,a,0,a,0,p,a,p,a,p,a,a,0,a,p,p,p,p,p,p,a,3
+4,1441011015,CHINMAYA NAIK,p,a,p,p,p,p,2.5,3,2,p,p,p,p,p,p,0,p,p,0,p,0,p,a,p,a,p,a,p,0,p,p,p,p,p,p,p,a,0
+5,1441011028,TAPASWINEE BARIK,p,p,p,p,p,p,21.5,8,1,p,p,p,p,p,p,0,p,p,1,p,0,p,p,p,p,p,p,p,0,p,p,p,p,p,p,p,p,0
+6,1441011029,MONIDEEPA BOSE,p,a,p,p,p,p,17,x,1,p,p,p,p,a,p,0,p,a,1,a,0,a,p,p,a,p,p,p,1,p,p,p,p,p,p,p,a,5
+44,1441011041,JANMENJAYA SAHOO,p,p,a,p,p,p,1.5,6,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,p,p,p,p,p,p,x
+7,1441011045,SIDHANT PATTNAIK,p,p,p,p,p,p,25,11,1,p,p,p,p,p,p,1,p,p,1,p,1,p,p,p,p,p,p,p,1,p,p,p,p,p,p,p,p,7
+8,1441011051,SAMBIT ROUT,a,p,p,a,p,p,26,10,2,p,p,p,p,p,p,0,p,p,0,a,1,p,p,p,p,a,a,p,1,p,a,p,p,p,p,p,a,6
+9,1441011064,SOURAV BARAL,a,a,a,a,p,p,8,3,2,p,p,p,p,p,p,0,p,p,0,p,0,a,p,p,p,p,a,p,0,p,p,p,p,a,p,a,a,1
+33,1441011067,PRATYUSH PRASHANT,p,a,a,p,a,a,4.5,x,1,x,x,x,x,x,x,x,x,x,0,a,0,a,a,p,p,a,p,a,0,p,p,p,a,p,p,p,a,x
+10,1441011069,SOMMYAK GURU,p,a,p,p,p,p,10,7,2,p,p,p,p,p,a,0,p,p,0,a,0,a,a,a,a,p,a,p,0,a,p,a,a,p,p,p,p,3
+11,1441011078,ABINASH PANDA,p,p,a,p,p,p,13,5,2,p,p,p,p,p,p,0,p,p,0,p,0,a,p,p,a,p,p,p,0,p,p,p,p,p,p,p,p,1
+34,1441011094,SATYAJIT PRADHAN,a,a,p,p,p,p,2,6,2,x,x,x,x,x,x,x,x,x,0,p,1,a,a,a,a,a,p,a,0,a,a,a,a,p,p,a,a,1
+35,1441011102,PUNENDU GAJENDRA MOHAPATRA,p,a,p,p,p,p,2.5,x,2,x,x,x,x,x,x,x,x,x,0,p,0,p,a,p,p,p,p,p,1,p,a,p,p,p,p,p,a,5
+12,1441011105,HARAPRASAD ROUT,p,a,p,p,p,p,11,9,2,p,p,p,p,p,p,0,p,p,0,p,1,p,p,a,a,p,a,p,0,p,p,p,p,a,p,p,a,x
+13,1441011128,GITISH RANJAN SAMANTARAY,a,p,p,p,p,p,2,3,2,p,p,a,a,p,p,0,p,p,0,a,0,p,p,p,a,p,a,p,0,p,p,p,p,p,p,p,a,0
+14,1441011140,ASWIMIN KUMAR PANDA,p,a,p,a,p,p,0.5,5,2,a,p,p,p,a,p,0,p,p,0,a,0,a,p,p,a,a,a,a,0,p,p,p,p,p,p,a,p,1
+15,1441011144,BISWA BHUSAN RATH,p,p,p,p,p,p,17,9,2,p,p,p,p,p,p,0,p,p,0,p,1,p,p,p,p,p,a,p,0,p,p,p,p,p,p,p,p,3
+16,1441011153,SHASANKA SEKHAR SWAIN,p,p,p,p,p,p,15,6,1,p,p,p,p,p,p,1,p,p,1,p,1,p,p,p,a,p,p,p,1,p,p,p,p,p,p,p,p,0
+17,1441011165,TANMAY KUMAR DEHURY,p,p,p,p,p,a,4,8,2,a,a,a,a,a,a,0,a,p,0,p,0,a,p,p,a,p,p,p,0,p,p,p,p,a,p,p,a,x
+36,1441011172,SATTISH KUMAR TRIPATHY,p,p,a,p,p,a,6,7,1,x,x,x,x,x,x,x,x,x,0,p,0,a,a,a,a,p,p,p,1,p,a,p,p,p,p,p,a,0
+18,1441011185,DIBYA RANJAN JENA,a,a,p,p,p,p,2,6,1,a,a,a,a,p,a,0,a,p,0,p,0,a,p,a,a,a,a,p,0,p,p,a,a,p,p,p,a,1
+42,1441011196,ASHWINI ANAND,p,a,p,p,p,a,0.5,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,p,p,p,p,p,a,a,x
+19,1441011198,PRABHU NARAYAN PATTANAIK,a,a,p,p,p,p,0,x,1,p,a,p,p,p,a,0,a,p,0,p,0,a,p,a,a,a,a,p,0,p,p,a,a,p,p,p,a,1
+41,1441011204,SHANTANU KUMAR,a,a,a,p,p,a,0,3,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,a,a,p,p,a,a,x
+37,1441011205,PRAVEEN HEMBROM,a,a,a,p,p,p,0,1,1,x,x,x,x,x,x,x,x,x,0,p,0,p,a,a,a,a,a,a,0,p,p,p,p,p,p,p,p,0
+20,1441011206,DENIS MINZ,a,p,p,p,p,a,7.5,7,1,p,a,p,a,p,p,0,a,p,1,p,0,p,a,p,a,p,a,p,0,p,p,p,p,p,p,p,a,0
+49,1441011207,BUDDHADEV TUDU,a,a,p,p,p,p,0,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,a,a,p,a,p,p,p,a,x
+38,1441011211,MD SABIR ALAM,p,p,p,p,p,p,2.5,6,2,x,x,x,x,x,x,x,x,x,1,p,1,p,p,p,p,p,a,a,1,p,p,p,p,p,p,p,p,0
+48,1441011212,MD ARMAN KHAN,p,p,a,a,a,a,0,0,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,a,p,p,p,p,p,p,a,x
+21,1441011214,RUDRA PRASAD MALLIA,a,p,a,p,p,p,1,x,2,p,p,p,p,p,p,1,p,p,0,p,0,p,p,a,a,p,a,p,0,p,p,p,p,p,p,p,p,0
+39,1441011215,ANKIT KUMAR MALLICK,a,p,a,a,p,a,2,5,2,x,x,x,x,x,x,x,x,x,1,p,1,p,a,a,a,a,p,p,0,a,a,a,p,p,p,p,a,x
+40,1441011216,SASWAT,a,a,p,p,p,p,1.5,7,2,x,x,x,x,x,x,x,x,x,0,p,1,p,a,a,a,a,p,a,1,p,a,p,p,p,p,p,a,0
+47,1441011218,SHANTANU JANA,a,a,a,a,a,a,a,x,1,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,p,p,a,a,p,a,a,x
+22,1471076001,ABHIPSA NANDA,a,p,p,p,p,p,15,8,1,p,p,p,p,p,p,0,a,p,1,p,0,a,p,p,a,p,p,p,0,p,p,p,p,p,p,p,p,1
+23,1471076002,RIYA KARMAKAR,p,p,p,p,p,p,14.5,8,1,p,p,p,p,p,p,1,p,p,1,p,0,a,p,p,a,p,p,p,1,p,p,p,p,p,p,p,a,1
+24,1471076006,SHREE NANDAN SAHOO,p,p,p,p,p,p,22,8,1,p,p,p,p,a,p,1,p,p,1,p,1,p,p,p,p,p,p,p,1,p,p,p,p,p,p,p,p,5
+25,1471076007,MOHIT PATEL,p,p,p,p,p,p,17,6,1,p,p,p,p,p,p,1,p,p,0,p,0,a,p,p,p,p,p,p,0,a,a,p,p,p,p,p,p,1
+26,1471076008,AMAR KUMAR SINGH,p,a,p,p,p,p,1.5,7,1,p,p,p,p,p,p,0,a,p,1,a,0,a,p,p,a,p,a,p,0,a,a,p,p,p,p,p,p,1
+45,1471076011,SAHABAZ KHAN,p,p,p,p,p,p,3.5,6,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,p,p,a,p,a,p,x
+27,1471076012,MANISH NATH,p,a,p,a,p,p,7.5,7,1,p,p,p,p,p,p,0,p,p,1,p,1,p,p,p,p,p,p,p,0,p,p,p,p,p,p,p,p,3
+28,1471076019,NABDEEP PATNAIK,p,a,p,p,p,p,8,7,1,p,p,p,p,p,p,0,p,p,0,p,1,p,p,p,a,p,p,p,1,p,p,p,p,p,p,p,a,1
+46,1471076020,SUBHAMSHREE SOUMYADARSHI MALLIK,a,p,p,p,p,p,1,5,2,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,x,p,a,p,p,a,p,a,p,x
+29,1471076022,SONALIRANI PADHIARI,p,p,p,p,p,p,14,8,1,p,p,p,p,p,p,1,p,p,1,p,0,a,p,p,a,p,p,p,0,p,p,p,p,p,p,p,p,0
+30,1471086004,AMIT KUMAR JENA,p,p,p,p,p,p,13,9,1,p,p,p,p,p,p,0,p,p,1,p,1,p,p,p,p,p,p,p,0,p,p,p,p,p,p,p,p,3
+31,1471086005,SOUMYA RANJAN MOHANTY,p,p,p,p,p,p,4,7,1,p,p,p,a,p,p,0,p,p,0,p,0,a,p,p,a,p,p,a,0,p,p,p,p,p,p,p,p,3
+32,1471086007,SIBUN KUMAR,a,p,a,a,p,p,4,7,1,p,p,a,p,a,p,0,a,a,0,p,0,a,p,p,a,p,a,p,0,p,p,p,p,p,p,p,p,3
