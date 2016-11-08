@@ -2,9 +2,9 @@ name: section_c
 account: pranjal
 server: shinyapps.io
 appId: 128265
-bundleId: 581967
+bundleId: 608630
 url: https://pranjal.shinyapps.io/section_c/
-when: 1476086749.93723
+when: 1478582195.04733
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: section_c.csv|section_c.ods
+ignoredFiles: lec_1.pdf|lec_2.pdf|lec_3.pdf|lec_4.pdf|lec_5.pdf|midsem_question_paper.pdf|midsem_question_paper_solution.pdf|quiz1_a_solution.pdf|quiz1_b_solution.pdf|quiz1_c_solution.pdf|quiz2_c_solution.pdf|quiz_2.pdf|quiz_a.pdf|quiz_b.pdf|quiz_c.pdf|rms.pdf|rms_solution.pdf|section_c.csv|section_c.ods

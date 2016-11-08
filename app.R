@@ -23,7 +23,8 @@ ui <- shinyUI(fluidPage(
       p("In case of Quiz- 'x' means absent. Quiz 1 marks are out of 12."),
       p("In case of Class- 'x' means Unregistered so those days won't count for attendance percent."),
       p("In case of Exam- 'a' means absent."),
-      p("link for the overall attendence sheet is https://github.com/pranjalm/iter_dir/blob/master/section_c.csv")
+      helpText( a("All the course data can be found here",href="https://github.com/pranjalm/iter_dir")
+      )
     ),
     
     # Show a plot of the generated distribution
