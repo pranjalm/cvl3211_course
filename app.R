@@ -1,18 +1,7 @@
-#
-# This is a Shiny web application. You can run the application by clicking
-# the 'Run App' button above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-
 library(shiny)
 
-# Define UI for application that draws a histogram
 ui <- shinyUI(fluidPage(
   
-  # Application title
   titlePanel("CVL3211 Student Records"),
   
   # Sidebar with a slider input for number of bins
@@ -31,7 +20,8 @@ ui <- shinyUI(fluidPage(
     mainPanel(
       #tableOutput("dispres")
       tabsetPanel(type = "tabs", 
-                  tabPanel("Student record", tableOutput("dispres"))
+                  tabPanel("Student record", tableOutput("dispres")),
+                  tabPanel("Open ended problem statements", tableOutput("dispres1"))
       )
     )
   )
@@ -41,12 +31,9 @@ ui <- shinyUI(fluidPage(
 server <- shinyServer(function(input, output) {
   
   output$dispres <- renderTable({
-    
-    # generate bins based on input$bins from ui.R
     library(RCurl)
     x <- getURL("https://raw.githubusercontent.com/pranjalm/iter_dir/master/section_c.csv")
     data <- read.csv(text = x)
-    #data <- read.csv("section_c.csv")
     p<-0
     a<-0
     b <- c()
@@ -62,11 +49,22 @@ server <- shinyServer(function(input, output) {
     }
     d <- data.frame(data$reg_no,data$name,b,data$Q1,data$Q2,data$mid_sem)
     colnames(d)<- c("Roll_Number","Name","Attendance_percentage","Quiz_1_marks","Quiz_2_marks","Mid_Semester_marks")
-    # find title in data$Title
     query1 <- grepl(input$Roll_Number , d$Roll_Number,ignore.case = TRUE)
     query2 <- grepl(input$Name , d$Name,ignore.case = TRUE)
     d[query1 & query2,]
   })
+  
+  output$dispres1 <- renderUI({
+    str1 <- paste("1.Design a concrete mix for a building subjected to moderate exposure condition to achieve characteristic strength of concrete 15 MPa with air content of 5%.")
+    str2 <- paste("2.Design a concrete mix for a building subjected to moderate exposure condition to achieve characteristic strength of concrete 15 MPa with air content of 10%.")
+    str3 <- paste("3.Design a concrete mix for a building subjected to moderate exposure condition to achieve characteristic strength of concrete 15 MPa with air content of 15%.")
+    str4 <- paste("4.Design a concrete mix for a building subjected to moderate exposure condition to achieve characteristic strength of concrete 25 MPa with air content of 5%.")
+    str5 <- paste("5.Design a concrete mix for a building subjected to moderate exposure condition to achieve characteristic strength of concrete 25 MPa with air content of 10%.")
+    str6 <- paste("6.Design a concrete mix for a building subjected to moderate exposure condition to achieve characteristic strength of concrete 25 MPa with air content of 15%.")
+    str7 <- paste("7.Design a sealent using cement and any other mixture to be used as filling road cracks.")
+    HTML(paste(str1, str2,str3,str4,str5,str6,str7, sep = '<br/>'))
+     
+    })
 })
 
 # Run the application 
