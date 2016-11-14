@@ -47,8 +47,8 @@ server <- shinyServer(function(input, output) {
       a<-0
       p<-0
     }
-    d <- data.frame(data$reg_no,data$name,b,data$Q1,data$Q2,data$mid_sem)
-    colnames(d)<- c("Roll_Number","Name","Attendance_percentage","Quiz_1_marks","Quiz_2_marks","Mid_Semester_marks")
+    d <- data.frame(data$reg_no,data$name,data$Q1,data$Q2,data$mid_sem)
+    colnames(d)<- c("Roll_Number","Name","Quiz_1","Quiz_2","Mid_Semester")
     query1 <- grepl(input$Roll_Number , d$Roll_Number,ignore.case = TRUE)
     query2 <- grepl(input$Name , d$Name,ignore.case = TRUE)
     d[query1 & query2,]
